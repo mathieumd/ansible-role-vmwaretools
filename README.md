@@ -3,6 +3,8 @@
 This role will help you with installing original vmware-tools form Vmware or
 fallback to Open VMware Tools (open-vm-tools).
 
+See [VMware documentation](http://packages.vmware.com/tools/docs/manuals/osp-esxi-51-install-guide.pdf).
+
 # Requirements
 
 None.
